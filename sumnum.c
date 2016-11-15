@@ -11,6 +11,8 @@ int main()
     // store sum in variable Sum
     Sum = n1 + n2;
 	
+	// check which integer is larger
+	// and print result to screen
 	if (n1>=n2)
 		printf("\nIncreasing order: %d , %d\n\n", n2, n1);
 	else
